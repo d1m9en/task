@@ -7,3 +7,5 @@ Fish
 Beef
 Chicken
 Pasta
+Salads
+Vegetarian
